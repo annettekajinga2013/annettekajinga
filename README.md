@@ -130,3 +130,8 @@ GOOGLE Cybersecurity certification
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Password Strength Tester
+- Packet Sniffing
+- Web Application Firewall
+- Home Lab
+  
