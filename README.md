@@ -1,9 +1,10 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Annette Kajinga 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Aspiring Cybersecurity Analyst | Entry-Level | Passionate About Digital Security
+Driven cybersecurity enthusiast with foundational knowledge in network security, threat detection, and incident response. Skilled in tools like Wireshark, Splunk, and Kali Linux, with hands-on experience through labs and personal projects. Currently pursuing industry certifications and building a career in information security.
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -11,7 +12,6 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +23,84 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+To create a professional GitHub page showcasing your cybersecurity tool experience, you can add a README.md file or a dedicated GitHub repository. Here's a Markdown template you can copy and paste into your GitHub repo's README file:
+
+
+---
+
+Cybersecurity Tools I Have Experience With
+
+1. Network Security & Analysis
+
+Wireshark – Network packet analysis and protocol inspection.
+
+Nmap – Network discovery and vulnerability scanning.
+
+tcpdump – CLI packet sniffer for traffic inspection.
+
+
+2. Vulnerability Assessment & Penetration Testing
+
+Nessus – Vulnerability scanning and management.
+
+Metasploit Framework – Penetration testing and exploit development.
+
+Burp Suite – Web application security testing.
+
+
+3. Endpoint Security & Malware Analysis
+
+Sysinternals Suite – Deep Windows system inspection.
+
+Process Explorer – Process analysis and behavior detection.
+
+VirusTotal – File and URL malware scanning.
+
+
+4. Security Information & Event Management (SIEM)
+
+Splunk – Log analysis and security monitoring.
+
+ELK Stack (Elasticsearch, Logstash, Kibana) – Custom log aggregation and visualization.
+
+
+5. Digital Forensics
+
+Autopsy – Digital forensics platform.
+
+FTK Imager – Evidence collection and preview.
+
+
+6. Firewall & IDS/IPS
+
+pfSense – Open-source firewall and router.
+
+Snort – Intrusion detection and prevention.
+
+
+7. Password Cracking & Authentication Testing
+
+John the Ripper – Password cracking and strength analysis.
+
+Hydra – Network logon cracker.
+
+
+8. Cloud Security
+
+AWS Security Hub – Cloud security posture management.
+
+Microsoft Defender for Cloud – Threat detection and security recommendations.
+
+
+9. General Security Utilities
+
+OpenVAS – Vulnerability scanning and management.
+
+Kali Linux – Penetration testing Linux distro with bundled tools.
+
+Hashcat – Password recovery and cracking tool.
+
 
 ### Network
 <div>
@@ -46,7 +123,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+ISC2 CC 
+
+GOOGLE Cybersecurity certification
+
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
