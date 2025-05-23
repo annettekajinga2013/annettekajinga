@@ -130,7 +130,7 @@ Hashcat – Password recovery and cracking tool.
 ## Projects
 - <a href="https://github.com/annettekajinga2013/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/annettekajinga2013/SOC-Automation-Project/tree/main">SOC Automation Project</a>
-- Password Strength Tester Lab
+- <a href="https://github.com/annettekajinga2013/Password-Strength-Tester-Lab/tree/main">Password Strength Tester Lab</a>
 - Packet Sniffing Lab
 - Web Application Firewall Lab
 - Home Lab
