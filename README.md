@@ -1,4 +1,4 @@
-# Hello, I'm Annette Kajinga 
+# Hello, I'm Annette
 <a href="https://linkedin.com/in/annettekajinga"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -122,9 +122,9 @@ Hashcat – Password recovery and cracking tool.
 </div>
 
 ## Certifications
-ISC2 CC 
+<img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-2E8B57?&style=for-the-badge&logo=ISC2&logoColor=white" />
 
-GOOGLE Cybersecurity certification
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
 
 ## Projects
