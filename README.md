@@ -133,5 +133,5 @@ Hashcat – Password recovery and cracking tool.
 - <a href="https://github.com/annettekajinga2013/Password-Strength-Tester-Lab/tree/main">Password Strength Tester Lab</a>
 - <a href="https://github.com/annettekajinga2013/Packet-Sniffing-Lab/tree/main">Packet Sniffing Lab</a>
 - <a href="https://github.com/annettekajinga2013/Web-Application-Firewall-Lab/tree/main">Web Application Firewall Lab</a>
-- Home Lab
+- Virtual Home Lab
   
