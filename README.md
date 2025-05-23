@@ -16,10 +16,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/annettekajinga2013/Detection-Lab/tree/main">Detection Lab</a>| 
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/annettekajinga2013/Detection-Lab/tree/main">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/annettekajinga2013/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/annettekajinga2013/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Case Management with TheHive                  | <a href="https://github.com/annettekajinga2013/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/annettekajinga2013/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 
 ## Tools
 
@@ -129,7 +129,7 @@ Hashcat – Password recovery and cracking tool.
 
 ## Projects
 - <a href="https://github.com/annettekajinga2013/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/annettekajinga2013/SOC-Automation-Project/tree/main">SOC Automation Project</a>
 - Password Strength Tester
 - Packet Sniffing
 - Web Application Firewall
